@@ -1,0 +1,538 @@
+WEBVTT
+
+1
+00:00:08.120 --> 00:00:11.730
+A primera vista.
+el uso de un VCS podría
+
+2
+00:00:11.730 --> 00:00:12.960
+parece mucho trabajo para
+
+3
+00:00:12.960 --> 00:00:14.910
+un especialista en TI para
+configurar y aprender.
+
+4
+00:00:14.910 --> 00:00:17.310
+Especialmente
+parece exagerado.
+
+5
+00:00:17.310 --> 00:00:20.040
+si eres el único miembro
+de su equipo de TI que
+
+6
+00:00:20.040 --> 00:00:23.160
+escribe código o tal vez incluso
+el único período miembro.
+
+7
+00:00:23.160 --> 00:00:25.350
+Entonces. ¿puede ayudar un VCS?
+
+8
+00:00:25.350 --> 00:00:26.520
+incluso si no necesitas compartir
+
+9
+00:00:26.520 --> 00:00:29.250
+tus guiones o colaborar
+en ellos con otros?
+
+10
+00:00:29.250 --> 00:00:31.365
+La respuesta corta es sí.
+
+11
+00:00:31.365 --> 00:00:33.480
+Un VCS puede ser invaluable.
+
+12
+00:00:33.480 --> 00:00:35.985
+incluso en una sola persona
+Departamento de TI.
+
+13
+00:00:35.985 --> 00:00:38.985
+Un VCS almacena su código
+y configuración.
+
+14
+00:00:38.985 --> 00:00:41.040
+También almacena la historia.
+
+15
+00:00:41.040 --> 00:00:43.085
+de ese código y configuración.
+
+dieciséis
+00:00:43.085 --> 00:00:45.110
+Un sistema de control de versiones puede
+
+17
+00:00:45.110 --> 00:00:47.000
+funcionar mucho como
+una maquina del tiempo.
+
+18
+00:00:47.000 --> 00:00:49.940
+dándote información sobre
+las decisiones del pasado.
+
+19
+00:00:49.940 --> 00:00:52.005
+Siempre que escribas
+un mensaje de confirmación.
+
+20
+00:00:52.005 --> 00:00:53.395
+después de hacer un cambio.
+
+21
+00:00:53.395 --> 00:00:55.715
+es como si la corriente
+versión de ti mismo
+
+22
+00:00:55.715 --> 00:00:58.250
+está explicando tu
+decisiones para un futuro
+
+23
+00:00:58.250 --> 00:01:00.830
+usted u otros que podrían
+
+24
+00:01:00.830 --> 00:01:02.090
+trabajar en los mismos scripts
+
+25
+00:01:02.090 --> 00:01:04.010
+y configuraciones en el futuro.
+
+26
+00:01:04.010 --> 00:01:06.260
+Esto puede ayudarlo a evitar encontrar
+
+27
+00:01:06.260 --> 00:01:08.900
+usted mismo mirando a un
+pedazo de código que tu
+
+28
+00:01:08.900 --> 00:01:11.780
+o alguien más escribió
+hace tres meses y
+
+29
+00:01:11.780 --> 00:01:15.305
+desconcertado sobre cómo funciona
+o incluso por qué existe.
+
+30
+00:01:15.305 --> 00:01:17.510
+Con un VCS. puede ver.
+
+31
+00:01:17.510 --> 00:01:19.580
+rastrear y seleccionar instantáneas
+
+32
+00:01:19.580 --> 00:01:21.020
+de la historia de su proyecto.
+
+33
+00:01:21.020 --> 00:01:23.150
+Así que nada de lo que hagas está perdido
+
+34
+00:01:23.150 --> 00:01:25.940
+y como podemos usar un VCS para
+
+35
+00:01:25.940 --> 00:01:28.280
+almacenar tanto el código como
+Archivos de configuración.
+
+36
+00:01:28.280 --> 00:01:30.365
+podemos hacer el
+sistemas de TI en general
+
+37
+00:01:30.365 --> 00:01:32.225
+más escalable y confiable.
+
+38
+00:01:32.225 --> 00:01:36.005
+Por ejemplo. digamos que tienes
+almacenó el archivo de zona DNS
+
+39
+00:01:36.005 --> 00:01:39.815
+para su empresa en un VCS y
+en caso de que no lo recuerdes.
+
+40
+00:01:39.815 --> 00:01:43.310
+un archivo de zona DNS es un
+archivo de configuración que especifica
+
+41
+00:01:43.310 --> 00:01:45.530
+las asignaciones entre direcciones IP
+
+42
+00:01:45.530 --> 00:01:47.735
+y nombres de host en su red.
+
+43
+00:01:47.735 --> 00:01:50.150
+Cuando actualiza el
+información de la zona.
+
+44
+00:01:50.150 --> 00:01:53.855
+siempre usa buenas explicaciones
+cometer mensajes.
+
+45
+00:01:53.855 --> 00:01:56.840
+De esa forma. tendrás acceso
+a la metainformación sobre
+
+46
+00:01:56.840 --> 00:01:58.490
+sus nuevas direcciones IP y
+
+47
+00:01:58.490 --> 00:02:00.815
+nombres de host presentes
+en el archivo de zona.
+
+48
+00:02:00.815 --> 00:02:04.310
+Como cuando fueron añadidos
+y con que finalidad.
+
+49
+00:02:04.310 --> 00:02:07.280
+Si algo se rompe después
+agregas una nueva entrada.
+
+50
+00:02:07.280 --> 00:02:09.410
+puede confiar en el VCS para saber
+
+51
+00:02:09.410 --> 00:02:11.945
+tu lo que parecía el archivo
+como antes del cambio.
+
+52
+00:02:11.945 --> 00:02:15.020
+A continuación. puede volver a
+la versión anterior rápidamente.
+
+53
+00:02:15.020 --> 00:02:16.280
+para que puedas solucionar el problema
+
+54
+00:02:16.280 --> 00:02:18.830
+rápido y averigua
+lo que salió mal después.
+
+55
+00:02:18.830 --> 00:02:20.720
+Esta funcionalidad mejora
+
+56
+00:02:20.720 --> 00:02:23.160
+la confiabilidad de los sistemas que opera.
+
+57
+00:02:23.160 --> 00:02:25.730
+Debido a la pista de auditoría
+proporcionado por el VCS.
+
+58
+00:02:25.730 --> 00:02:27.050
+sabes exactamente que versión
+
+59
+00:02:27.050 --> 00:02:28.850
+del archivo de zona al que retroceder.
+
+60
+00:02:28.850 --> 00:02:31.520
+lo que reduce el tiempo
+toma solucionar el problema.
+
+61
+00:02:31.520 --> 00:02:34.730
+Generalmente es mejor rápidamente
+retroceder primero y detenerse
+
+62
+00:02:34.730 --> 00:02:38.315
+errores antes de pasar tiempo
+averiguar qué salió mal.
+
+63
+00:02:38.315 --> 00:02:41.380
+Puedes frenar la solución después
+el sangrado se ha detenido.
+
+64
+00:02:41.380 --> 00:02:43.220
+Descubrir el error podría
+
+sesenta y cinco
+00:02:43.220 --> 00:02:44.950
+tomar un tiempo valioso o algo peor.
+
+66
+00:02:44.950 --> 00:02:47.885
+tu primer intento en un
+La solución puede tener sus propios errores.
+
+67
+00:02:47.885 --> 00:02:49.895
+Veamos un
+ejemplo diferente.
+
+68
+00:02:49.895 --> 00:02:52.865
+La configuración
+para un demonio DHCP
+
+69
+00:02:52.865 --> 00:02:55.835
+se puede replicar en
+dos o más máquinas.
+
+70
+00:02:55.835 --> 00:02:58.010
+donde uno actúa como
+un servidor primario
+
+71
+00:02:58.010 --> 00:03:00.800
+y el otro actúa
+como máquina de reserva.
+
+72
+00:03:00.800 --> 00:03:02.900
+Las máquinas de reserva no
+
+73
+00:03:02.900 --> 00:03:04.910
+hacer mucho mientras el primario está activo.
+
+74
+00:03:04.910 --> 00:03:08.450
+Pero si la primaria va
+abajo por cualquier motivo.
+
+75
+00:03:08.450 --> 00:03:10.190
+una máquina en espera puede convertirse
+
+76
+00:03:10.190 --> 00:03:13.310
+primaria y empezar
+responder a las consultas de DHCP.
+
+77
+00:03:13.310 --> 00:03:16.100
+Para que esto funcione. el
+Archivos de configuración
+
+78
+00:03:16.100 --> 00:03:18.725
+en todas las máquinas necesitan
+ser idéntico.
+
+79
+00:03:18.725 --> 00:03:21.500
+Esto se debe a que el protocolo DHCP
+
+80
+00:03:21.500 --> 00:03:22.730
+no proporciona una forma para
+
+81
+00:03:22.730 --> 00:03:24.170
+máquinas de reserva para conseguir
+
+82
+00:03:24.170 --> 00:03:25.820
+una versión actualizada de
+
+83
+00:03:25.820 --> 00:03:28.210
+los archivos de configuración
+y la forma en que lo hace DNS.
+
+84
+00:03:28.210 --> 00:03:29.960
+Para lidiar con esto. podemos mantener
+
+85
+00:03:29.960 --> 00:03:33.050
+la versión actualizada de
+la configuración DHCP en
+
+86
+00:03:33.050 --> 00:03:35.570
+un sistema de control de versiones y tener
+
+87
+00:03:35.570 --> 00:03:38.675
+las maquinas descargan el
+configuración desde el VCS.
+
+88
+00:03:38.675 --> 00:03:40.250
+Esto significa todas las maquinas
+
+89
+00:03:40.250 --> 00:03:41.900
+tendrá exactamente los mismos archivos.
+
+90
+00:03:41.900 --> 00:03:43.370
+Eso ya es lo suficientemente útil.
+
+91
+00:03:43.370 --> 00:03:44.930
+Pero después de usarlo por un tiempo.
+
+92
+00:03:44.930 --> 00:03:46.820
+estás obligado a ver
+otros beneficios.
+
+93
+00:03:46.820 --> 00:03:49.220
+Di que tienes una urgencia
+alerta durante el fin de semana.
+
+94
+00:03:49.220 --> 00:03:51.230
+diciéndote eso
+su servidor DHCP
+
+95
+00:03:51.230 --> 00:03:53.390
+no responde a ninguna consulta.
+
+96
+00:03:53.390 --> 00:03:56.030
+Miras la historia de
+los cambios y encuentras
+
+97
+00:03:56.030 --> 00:03:58.610
+que uno de los cambios
+añadido el viernes por la noche.
+
+98
+00:03:58.610 --> 00:04:00.185
+incluyó una entrada duplicada
+
+99
+00:04:00.185 --> 00:04:01.970
+haciendo que el servidor se comporte mal.
+
+100
+00:04:01.970 --> 00:04:04.760
+Al usar un VCS.
+puede retroceder fácilmente
+
+101
+00:04:04.760 --> 00:04:05.780
+el cambio y tener
+
+102
+00:04:05.780 --> 00:04:08.330
+los servidores vuelven a
+salud en poco tiempo.
+
+103
+00:04:08.330 --> 00:04:11.060
+Puede que te encuentres con un
+segundo beneficio inesperado.
+
+104
+00:04:11.060 --> 00:04:13.610
+cuando es el momento de reemplazar
+el servidor con uno nuevo.
+
+105
+00:04:13.610 --> 00:04:16.235
+Teniendo todos los
+configuración del servidor
+
+106
+00:04:16.235 --> 00:04:18.140
+y un sistema de control de versiones.
+
+107
+00:04:18.140 --> 00:04:19.520
+es mucho más fácil de automatizar
+
+108
+00:04:19.520 --> 00:04:21.350
+la tarea de desplegar
+un nuevo servidor.
+
+109
+00:04:21.350 --> 00:04:22.610
+¿Estás empezando a ver cómo
+
+110
+00:04:22.610 --> 00:04:24.920
+control de versión útil
+los sistemas pueden ser?
+
+111
+00:04:24.920 --> 00:04:27.560
+Incluso podrías estar pensando
+de algunas situaciones
+
+112
+00:04:27.560 --> 00:04:30.530
+al tener sus archivos en VCS.
+
+113
+00:04:30.530 --> 00:04:32.060
+te hubiera salvado
+algunos dolores de cabeza.
+
+114
+00:04:32.060 --> 00:04:34.465
+Como dijimos en el
+comenzando. en este curso.
+
+115
+00:04:34.465 --> 00:04:36.080
+usaremos Git. que es uno de
+
+116
+00:04:36.080 --> 00:04:39.005
+la versión más popular
+sistemas de control en uso hoy.
+
+117
+00:04:39.005 --> 00:04:40.940
+A continuación. aprenderemos un poco sobre
+
+118
+00:04:40.940 --> 00:04:44.190
+la historia de Git y
+Qué lo hace tan especial.
